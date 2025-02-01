@@ -1,0 +1,4 @@
+Merge branch 'col-4' into DEVELOP-0
+
+# Conflicts:
+#	.astro/content.d.ts

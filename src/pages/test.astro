@@ -1,0 +1,22 @@
+---
+import Base from '@layouts/Base.astro'
+
+const name = "Havana"
+
+const users = [
+  {name: 'John' , age: 40},
+  {name: 'Heidless' , age: 23},
+  {name: 'Arjuna' , age: 35}
+]
+
+---
+
+<Base>
+  <ul class="ml-5 text-2xl font-bold">
+    {
+      users.map(user => (
+        <li>{user.name} is {user.age} years old.</li>
+      ))
+    }
+  </h1>
+</Base>

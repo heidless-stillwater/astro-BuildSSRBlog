@@ -1,0 +1,25 @@
+0000000000000000000000000000000000000000 ec1be51ad20d3828228dfcd227bcf7e8289ba1f3 heidless <lockhart.r@gmail.com> 1738337052 +0000	commit (initial): init
+ec1be51ad20d3828228dfcd227bcf7e8289ba1f3 6db41354aaa5f5ac182034f7144c52a9a4502e58 heidless <lockhart.r@gmail.com> 1738417398 +0000	commit: config
+6db41354aaa5f5ac182034f7144c52a9a4502e58 6db41354aaa5f5ac182034f7144c52a9a4502e58 heidless <lockhart.r@gmail.com> 1738417520 +0000	checkout: moving from main to props-0
+6db41354aaa5f5ac182034f7144c52a9a4502e58 41fff18182c7503491c245866b6578538e851a36 heidless <lockhart.r@gmail.com> 1738418960 +0000	commit: props initialized
+41fff18182c7503491c245866b6578538e851a36 41fff18182c7503491c245866b6578538e851a36 heidless <lockhart.r@gmail.com> 1738418976 +0000	checkout: moving from props-0 to const-0
+41fff18182c7503491c245866b6578538e851a36 54c610131b6ddbd5f6622fff8a4bf74f0b807ae3 heidless <lockhart.r@gmail.com> 1738419859 +0000	commit: const initialized
+54c610131b6ddbd5f6622fff8a4bf74f0b807ae3 54c610131b6ddbd5f6622fff8a4bf74f0b807ae3 heidless <lockhart.r@gmail.com> 1738419876 +0000	checkout: moving from const-0 to nav-0
+54c610131b6ddbd5f6622fff8a4bf74f0b807ae3 332f992aa21b96106efb7ff983213aafd66c8bee heidless <lockhart.r@gmail.com> 1738420595 +0000	commit: nv updated
+332f992aa21b96106efb7ff983213aafd66c8bee 332f992aa21b96106efb7ff983213aafd66c8bee heidless <lockhart.r@gmail.com> 1738420622 +0000	checkout: moving from nav-0 to DEVELOP-0
+332f992aa21b96106efb7ff983213aafd66c8bee 332f992aa21b96106efb7ff983213aafd66c8bee heidless <lockhart.r@gmail.com> 1738420645 +0000	checkout: moving from DEVELOP-0 to 404-0
+332f992aa21b96106efb7ff983213aafd66c8bee 324583d69dc64ba0ef84e2b38290f68f4f632c14 heidless <lockhart.r@gmail.com> 1738421880 +0000	commit: error page initialized
+324583d69dc64ba0ef84e2b38290f68f4f632c14 332f992aa21b96106efb7ff983213aafd66c8bee heidless <lockhart.r@gmail.com> 1738421906 +0000	checkout: moving from 404-0 to DEVELOP-0
+332f992aa21b96106efb7ff983213aafd66c8bee 324583d69dc64ba0ef84e2b38290f68f4f632c14 heidless <lockhart.r@gmail.com> 1738421916 +0000	merge 404-0: Fast-forward
+324583d69dc64ba0ef84e2b38290f68f4f632c14 324583d69dc64ba0ef84e2b38290f68f4f632c14 heidless <lockhart.r@gmail.com> 1738421989 +0000	checkout: moving from DEVELOP-0 to col-0
+324583d69dc64ba0ef84e2b38290f68f4f632c14 f4f0a053eb3353f6fc89bceb4f81e7827f8d9060 heidless <lockhart.r@gmail.com> 1738423069 +0000	commit: config.ts
+f4f0a053eb3353f6fc89bceb4f81e7827f8d9060 f4f0a053eb3353f6fc89bceb4f81e7827f8d9060 heidless <lockhart.r@gmail.com> 1738423123 +0000	checkout: moving from col-0 to col-2
+f4f0a053eb3353f6fc89bceb4f81e7827f8d9060 936a477a872c15229414387ef84a7fc086c642dd heidless <lockhart.r@gmail.com> 1738425158 +0000	commit: attempt 1
+936a477a872c15229414387ef84a7fc086c642dd f4f0a053eb3353f6fc89bceb4f81e7827f8d9060 heidless <lockhart.r@gmail.com> 1738425195 +0000	checkout: moving from col-2 to col-0
+f4f0a053eb3353f6fc89bceb4f81e7827f8d9060 f4f0a053eb3353f6fc89bceb4f81e7827f8d9060 heidless <lockhart.r@gmail.com> 1738425262 +0000	checkout: moving from col-0 to col-3
+f4f0a053eb3353f6fc89bceb4f81e7827f8d9060 56cd0e6aa50c5aa915573679f00d80ac94d4305c heidless <lockhart.r@gmail.com> 1738427254 +0000	commit: attempt 3
+56cd0e6aa50c5aa915573679f00d80ac94d4305c f4f0a053eb3353f6fc89bceb4f81e7827f8d9060 heidless <lockhart.r@gmail.com> 1738427266 +0000	checkout: moving from col-3 to col-0
+f4f0a053eb3353f6fc89bceb4f81e7827f8d9060 f4f0a053eb3353f6fc89bceb4f81e7827f8d9060 heidless <lockhart.r@gmail.com> 1738427709 +0000	checkout: moving from col-0 to col-4
+f4f0a053eb3353f6fc89bceb4f81e7827f8d9060 4fb5d5bc12eb7b251c893e5fffad65ef023fd252 heidless <lockhart.r@gmail.com> 1738431099 +0000	commit: initial collection in place
+4fb5d5bc12eb7b251c893e5fffad65ef023fd252 324583d69dc64ba0ef84e2b38290f68f4f632c14 heidless <lockhart.r@gmail.com> 1738431282 +0000	checkout: moving from col-4 to DEVELOP-0
+324583d69dc64ba0ef84e2b38290f68f4f632c14 66ee986555a28105cd902e2d9c759663b92bbea9 heidless <lockhart.r@gmail.com> 1738431383 +0000	commit: update

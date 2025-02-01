@@ -1,0 +1,24 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/heidless-stillwater/astro-BuildSSRBlog.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[branch "props-0"]
+	vscode-merge-base = origin/main
+[branch "404-0"]
+	remote = origin
+	merge = refs/heads/404-0
+[branch "DEVELOP-0"]
+	remote = origin
+	merge = refs/heads/DEVELOP-0
+[branch "col-0"]
+	vscode-merge-base = origin/DEVELOP-0
+[branch "col-4"]
+	remote = origin
+	merge = refs/heads/col-4
