@@ -1,8 +1,8 @@
 ---
-import MainLayout from "../../layouts/MainLayout.astro";
-import Tags from "../../components/Tags.astro";
+import MainLayout from "@layouts/MainLayout.astro";
+import Tags from "@components/Tags.astro";
 import { getEntry } from 'astro:content';
-import { formatDate } from "../../utils";
+import { formatDate } from "@utils";
 
 const { slug } = Astro.params;
 
@@ -37,6 +37,6 @@ const { Content } = await entry.render();
 
   h2 {
     margin: 20px 0;
-    font-size: 1.8rem;
+    font-size: 1.2rem;
   }
 </style>
