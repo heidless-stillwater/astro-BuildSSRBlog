@@ -5,7 +5,7 @@ import type { CollectionEntry } from 'astro:content';
 export const GET: APIRoute = async ({ url }): Promise<Response> => {
   const query: string | null = url.searchParams.get('query');
 
-  console.log(query);
+  // console.log(query);
 
   // handle if query is not present
   if ( query === null ) {
