@@ -4,6 +4,8 @@
   "exclude": ["dist"],
   "compilerOptions": {
     "baseUrl": ".",
+    "target": "es2017",
+    "lib": ["es2017", "dom"],
     "paths": {
       "@/*": ["./*"],
       "@components/*": ["src/components/*"],
